@@ -1,0 +1,22 @@
+[
+  {
+    "id": "OBJ_AC9EF3B0A2E4",
+    "categoria": "Equipos Médicos",
+    "codigoInventario": "eqm-001",
+    "nombre": "tensiometro",
+    "serial": "285847545",
+    "cantidadEtiquetas": 1,
+    "estado": "Disponible",
+    "ubicacionActual": "consultorio 2",
+    "requiereCalibracion": true,
+    "estadoCalibracion": "Próximo a Vencer",
+    "fechaUltimaCalibracion": "2024-06-12",
+    "fechaProximaCalibracion": "2026-04-12",
+    "observaciones": "",
+    "urlFoto1": "",
+    "urlFoto2": "",
+    "urlFoto3": "",
+    "fechaCreacion": "2026-03-29T22:44:22.317Z",
+    "fechaActualizacion": "2026-03-29T22:45:15.534Z"
+  }
+]

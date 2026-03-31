@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TRA_A3CC2D8C8BF4",
+    "idObjeto": "OBJ_AC9EF3B0A2E4",
+    "codigoInventario": "eqm-001",
+    "nombreObjeto": "tensiometro",
+    "ubicacionOrigen": "consultorio 8",
+    "ubicacionDestino": "consultorio 2",
+    "fechaTraslado": "2026-03-29",
+    "personaResponsable": "johana",
+    "observaciones": "",
+    "fechaRegistro": "2026-03-29T22:45:15.532Z"
+  }
+]
