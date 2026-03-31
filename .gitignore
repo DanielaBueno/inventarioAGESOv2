@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+cliente/node_modules/
+servidor/node_modules/
+
+# Archivos de entorno (contienen contraseñas)
+.env
+servidor/.env
+
+# Archivos temporales de subida
+servidor/temp/
+
+# Build del frontend
+cliente/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
